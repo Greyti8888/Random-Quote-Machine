@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/random-quote-machine/static/js/main.d6dbd2dc.chunk.js",
+    "main.js.map": "/random-quote-machine/static/js/main.d6dbd2dc.chunk.js.map",
+    "runtime~main.js": "/random-quote-machine/static/js/runtime~main.c254d928.js",
+    "runtime~main.js.map": "/random-quote-machine/static/js/runtime~main.c254d928.js.map",
+    "static/js/2.0a76d362.chunk.js": "/random-quote-machine/static/js/2.0a76d362.chunk.js",
+    "static/js/2.0a76d362.chunk.js.map": "/random-quote-machine/static/js/2.0a76d362.chunk.js.map",
+    "index.html": "/random-quote-machine/index.html",
+    "precache-manifest.8cc912074ae014a8e0f0fd5e648d2de9.js": "/random-quote-machine/precache-manifest.8cc912074ae014a8e0f0fd5e648d2de9.js",
+    "service-worker.js": "/random-quote-machine/service-worker.js"
+  }
+}
